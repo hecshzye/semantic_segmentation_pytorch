@@ -2,12 +2,12 @@
 - State-of-the-Art Semantic Segmentation model
 
 ## Semantic Segmentation
-    - MIT ADE20K dataset in PyTorch, scene parsing dataset 
+   - MIT ADE20K dataset in PyTorch, scene parsing dataset 
         -- http://sceneparsing.csail.mit.edu/
         
-    - ADE20K is the largest open source dataset for semantic segmentation and scene parsing, released by MIT Computer Vision team. 
+   - ADE20K is the largest open source dataset for semantic segmentation and scene parsing, released by MIT Computer Vision team. 
     
-    - All pretrained models can be found at: http://sceneparsing.csail.mit.edu/model/pytorch
+   - All pretrained models can be found at: http://sceneparsing.csail.mit.edu/model/pytorch
     
 - Syncronized Batch Normalization on PyTorch
     - This module computes the mean and standard-deviation across all devices during training. 
