@@ -20,7 +20,7 @@
   - It is efficient, only 20% to 30% slower than UnsyncBN.
   
 - Dynamic scales of input for training with multiple GPUs
-- 
+
 - Supported models:
     - We split our models into encoder and decoder, where encoders are usually modified directly from classification networks, and decoders consist of final convolutions and upsampling. 
     - We have provided some pre-configured models in the config folder.
